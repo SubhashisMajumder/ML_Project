@@ -25,4 +25,8 @@ You can find the code for this project here
 
 File overview:
 
-#Hypothesis.ipynb - The main project code
+https://github.com/SubhashisMajumder/ML_Project/blob/main/Hypothesis.ipynb - The main project code
+
+# Data
+
+We'll be using data from the Olympics, which was originally on https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
